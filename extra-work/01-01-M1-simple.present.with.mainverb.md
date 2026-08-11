@@ -8,9 +8,12 @@
 - کامل (perfect)
 - کامل استمراری (perfect continuous)
 ----->3 تا زمان که هرکدام 4 حالت در کل میشه 12 حالت اصلی
-
 ---
-## بریم زمان حال  (Present) صحبت کنیم:
+# قبل شروع حال ساده این نکته رو مد نظر بگیرید که زمان حال ساده خودش دو مد دارد:
+- model1(M1)with main verb ke --->1-(+) he/she/it role es/s/ies va dar (-)auxiliary verb (do/does) (?)auxiliary verb
+- model2(M2)with to be verb-->[01-01-M2s.p.withtobeveerb](01-01-M2-simple.present.with.tobeverb.md)
+---
+## بریم زمان حال  ( Present with main verb(M1modelone) صحبت کنیم:
 
 ### 1-زمان حال ساده + (Positive.Simple.present )
 #### زمان حال ساده برای عادت ها و واقعیت ها و برنامه هایه ثابت استفاده میشود.
@@ -46,4 +49,7 @@
 - Does + He/She/It + V1--->Does it work.
 
 ---
-**نکته** در حال ساده منفی و سوالی ما از فعل معمولی یا مدل اول فعل استفاده میکنید.
+**نکته** 
+- در حال ساده منفی و سوالی ما از فعل معمولی یا مدل اول فعل استفاده میکنید.
+- در حال ساده این فایل با افعال اصلی بود (main verb)
+
