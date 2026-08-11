@@ -35,6 +35,15 @@
 ####  چرا ما از فعل کمکی استفاده میکنیم درون -حال ساده؟
 چون در انگیلیسی در ساخت زمان حال منفی و سوالی معمولا به فعل کمکی یا (auxiliary verb)نیاز داریم
 که این   auxiliary verb ها در زمان حال ساده (do, does) هستند.
+
 ---
 
+
 ### 3-زمان حال ساده سوالی (Simple.present.question)
+در حال ساده سوالی هم نیز ما به فعل کمکی (auxiliary verb) نیاز داریم مانند حال ساده منفی
+- <mark style="background: #FF5582A6;">structure</mark> : Do/Does + subject + V1(baseverb/infinitiveverb)
+- Do + I/You/They/We + V1--->Do they live in tehran.
+- Does + He/She/It + V1--->Does it work.
+
+---
+**نکته** در حال ساده منفی و سوالی ما از فعل معمولی یا مدل اول فعل استفاده میکنید.
