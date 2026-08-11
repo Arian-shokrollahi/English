@@ -28,11 +28,13 @@
 
 ---
 
-### 2-زمان حال ساده - (Negative.simple.present)
+### 2-زمان حال ساده -منفی (Simple.present.negative)
 - <mark style="background: #FF5582A6;">structure</mark> for negative sipmle present--->subject + do/does + not + V1
 - I/You/We/They + do not(don't) + verb model 1(V1)-->I don't know.
 - He/She/It + does not(doesn't) + verb model 1(V1)--->He doesn't work here.
-###  چرا ما از فعل کمکی استفاده میکنیم درون -حال ساده؟
+####  چرا ما از فعل کمکی استفاده میکنیم درون -حال ساده؟
 چون در انگیلیسی در ساخت زمان حال منفی و سوالی معمولا به فعل کمکی یا (auxiliary verb)نیاز داریم
 که این   auxiliary verb ها در زمان حال ساده (do, does) هستند.
+---
 
+### 3-زمان حال ساده سوالی (Simple.present.question)
