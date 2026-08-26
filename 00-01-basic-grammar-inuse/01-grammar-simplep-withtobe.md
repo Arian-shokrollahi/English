@@ -1,4 +1,4 @@
-# Basic grammar lesson one tobe verb and import phrase
+# Basic grammar lesson one present simple with toverb ->affirmative & negative
 ### Import phrase:
 1-میخوای بگی من به فلان چیز علاقه دارم-->I'm interested in folanchiz(art)
 
