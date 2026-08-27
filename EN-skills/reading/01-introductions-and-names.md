@@ -1,13 +1,13 @@
 # reading01-introductions and names
 ---
 ### short conversation
-a-what's your name?-->b-my fullname is arian shokrollahi yancheshme
-a-how are you?-->b-I'm fine thanks
-a-What's your email address?-->b-arianr6bil@gmail.com
-a-nice meet you-->b-nice to meet you,too.
-a-how do you spell your name?-->a-r-i-a-n s-h-o-k-r-o-ll-a-h-i
-a-what's your phone number?-->091700078
-a-goodmorning,arian-->b-good morning
+- a-what's your name?-->b-my fullname is arian shokrollahi yancheshme
+- a-how are you?-->b-I'm fine thanks
+- a-What's your email address?-->b-arianr6bil@gmail.com
+- a-nice meet you-->b-nice to meet you,too.
+- a-how do you spell your name?-->a-r-i-a-n s-h-o-k-r-o-ll-a-h-i
+- a-what's your phone number?-->091700078
+- a-goodmorning,arian-->b-good morning
 
 ---
 
