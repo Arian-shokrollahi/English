@@ -157,3 +157,47 @@ Comparison guide for possession, grammar structures, and usage in English (IELTS
 - 6-Sam hasn't got a job?
 -- ا**Use plural nouns after _any_ (e.g., _any questions_, _any problems_).**_(بعد از any برای اسم‌های قابل‌شمارش از حالت جمع استفاده کنید: any questions)._
 -ا **Punctuation matters: use periods (.) for negative statements, not question marks (?).**_(علائم نگارشی مهم است: برای جملات منفی از نقطه استفاده کنید، نه علامت سوال)._
+
+---
+### Practice Set: Complete & Checked
+
+1. **New Car:**
+   - `I have a new car.`
+   - `I've got a new car.`
+
+2. **Sara's Passport:**
+   - `Sara doesn't have a passport.`
+   - `Sara hasn't got a passport.`
+
+3. **Driving License:**
+   - `Do you have a driving license?`
+   - `Have you got a driving license?`
+
+4. **Two Dogs:**
+   - `He has two dogs.`
+   - `He's got two dogs.`
+
+5. **Not Enough Time:**
+   - `We don't have enough time.`
+   - `We haven't got enough time.`
+
+6. **Ali's Headache:**
+   - `Ali has a headache.`
+   - `Ali has got a headache.` (or `Ali's got a headache.`)
+
+7. **Big House:**
+   - `Do they have a big house?`
+   - `Have they got a big house?`
+
+8. **The Key:**
+   - `I don't have the key.`
+   - `I haven't got the key.`
+
+9. **Laptops Count:**
+   - `How many laptops do you have?`
+   - `How many laptops have you got?`
+
+10. **Friend in the City:**
+    - `Does she have a friend in this city?`
+    - `Has she got a friend in this city?`
+
