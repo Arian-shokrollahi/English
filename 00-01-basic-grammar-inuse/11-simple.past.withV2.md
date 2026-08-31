@@ -111,7 +111,7 @@
 ## ۱. حالت اول: با افعال To-Be در گذشته (`was` / `were`)
 
 > **کاربرد:** بیان **«حالت / بودن / هویت / مکان»** در گذشته.
-> 
+>
 > در این حالت دربارهٔ _انجام کار_ صحبت نمی‌کنیم، بلکه توصیف می‌کنیم فاعل **چگونه بود**، **کجا بود** یا **چه بود**.
 
 ### ساختار:
@@ -149,5 +149,69 @@ Subject+V2(past verb)+...
     - _ترجمه:_ سرور دیشب کرش کرد (از کار افتاد).
 - **حرکت یا جابه‌جایی (Movement):**
     - `They left the room.`
-    - _ترجمه:_ آن‌ها اتاق را ترک کردند.
+    - _ترجمه:_ آن‌ها اتاق را |ترک کردند.
+
+----
+## مثال گذشته ساده با فعل مدل دوم
+| English ex                                                                     | to fa                                                                |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| I brush my teeth every morning. this morning I brushed my teeth.               | من دندون  هامو هر روز صبح میشورم. امروز صبح مسواک زدم                |
+| Tony worked in a bank from 2005 to 2011.                                       |                                                                      |
+| Yesterday it rained all morning.It stopped at lunchtime.                       | دیروز کل روز بارون اومد.موقع ناهار استپ شد بند اومد                  |
+| We enjoyed the party last night. We danced a lot and talked to a lot of people | ما از مهمانی لذت بردیم.و ما زیاد رقصیدیم و با افراد زیادی صحبت کردیم |
+| The party ended at midnight                                                    | پارتی نیمه شب تمام شد                                                |
+| I usually get up early, but this morning I got up at 9:30                      | ن معمولا زود بیدار میشم، اما امروز صبح من بیدارشدم در ساعت 9:30      |
+| We did a lot of work yesterday                                                 | دیروز خیلی کار کردیم                                                 |
+| Megan went to the movies three times last week                                 | مگان هفته پیش سه بار سینما رفت                                       |
+| James came into the room,took off his coat, and sat down                       | جیمز وارد اتاق شد، کتش رو دراورد و نشست                              |
+| I brushed my teeth tree times yesterday.                                       | من دندونم رو مسواک زدم سه بار دیروز                                  |
+| it was very hot in the room.so I opened the window.                            | داخل اتاقم خیلی گرم بود. خب من باز کردم پنجره رو                     |
+| the movie was very long.it started at 7:15 and ended at10                      | فیلم خیلی طولانی بود.7:15 شروع شد و 10 تموم شد                       |
+| When I was child I wanted to be a doctor                                       | وقتی بچه بودم من میخواستم دکتر شم                                    |
+| The accident happend last Sunday afternoon                                     | حادثه رخ داد در بعد از ظهر یکشنبه پیش                                |
+| The weather is nice. but yesterday it rained allday                            | هوا خوب است.اما دیروز کل روز بارون اومد                              |
+| We enjoyed our vacation last year. we stayed at a very beautiful place         | ما سال پیش از تعطیلاتمون لذت بردیم.ما در مکان زیبایی اقامت داشتیم    |
+| Anna's grandfather died when he's 90 years old                                 | بدربزرگ انا مرد وقتی اون 90سال سن داشت                               |
+
+---
+# یه داستان هم بگیم براتون از سفر LIZ هفته پیش به مادرید
+| فارسی                                               | انگلیسی                                                         |
+| --------------------------------------------------- | --------------------------------------------------------------- |
+| سه شنبه پیش لیز پرواز کرد به از لس انجلس به مادرید  | Last tuesday Liz flew from Losangeles to madrid                 |
+| او بیدار شد در ساعت6 در صبح.و خورد فنجانی قهوه      | She got up at 6:00 in the morning and had a cup of coffe.       |
+| در 7:15 خانه رو ترک کردو روند تا فرودگاه            | at 7:15 she left home and drove to airport                      |
+| وقتی اون رسید اونجا او ماشین رو پارک کرد            | When she arrived there.she parked the car                       |
+| تا ترمینال قدم زد و برسی شد                         | Walked to the terminal and checked in                           |
+| سپس اون صبحانه خورد و منتظر بود برایه سفرش          | the she had breakfast and waited for her flight                 |
+| هواپیما سر پرید و رسید به مادرید 13 ساعت بعد        | the plane departed on time and arrived in madrid 13 hours later |
+| در نهایت اون تاکسی گرفت از فرودگاه به هتل پایین شهر | Finally she took a taxy from airport to hotel downtown.         |
+
+----
+### یخورده پیش در انگیلیسی چی میشه مهممم؟
+- ما کلمه ای داریم به اسمه just در انگلیسی که معنی فقط میده اما اگر 
+- ### بررسی کاربرد و معنی کلمه **Just**:
+
+کلمه **just** در زبان انگلیسی معانی متعددی دارد:
+
+1. **معنی «فقط / صرفاً / تنها» (Only):**
     
+    - _I just want a cup of water._ (من فقط یک لیوان آب می‌خواهم.)
+    - _It’s just a game._ (این فقط یک بازیه.)
+2. **معنی «همین چند لحظه پیش / یک خرده پیش» (A short time ago):**
+    
+    اگر **just** را در گذشته ساده (Past Simple) بین **فاعل (Subject)** و **فعل گذشته (Past Verb)** قرار دهید، معنی «همین الان / همین چند لحظه پیش / یک خرده پیش» می‌دهد:
+    
+    - **ساختار:**
+    ```
+    Subject+just+past verb+...
+    ```
+
+| english ex                       | to fa                                 |
+| -------------------------------- | ------------------------------------- |
+| I just saw him                   | من یخورده پیش دیدمش                   |
+| She just called me               | اون یخورده پیش بهم زنگ زد             |
+| They just left.                  | اونها یخورده پیش رفتند                |
+| The train just arrived           | قطار یخورده پیش رسید                  |
+| Is Tom here?No, He just left.    | تام اینجاست؟نه اون یخورده پیش رفت     |
+| I'm not hungry.I just had dinner | من گشنم نیست. من یخورده پیش شام خوردم |
+
