@@ -1,0 +1,1 @@
+When do, does, or did are used as auxiliaries, they “absorb” the grammatical load (the past tense marker or the third-person ‘s’). Consequently, the main verb must always revert to its base form (V1). Never add ‘-ed’ or ‘-s’ to the verb when these helpers are present.
