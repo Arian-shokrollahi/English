@@ -27,3 +27,22 @@
 | 3 | نیاز به be با صفت | قبل از صفت یا حالت باید be بیاید | She used to shy | She used to be shy |
 | 4 | تفاوت معنایی با Be Used To | برای کارهای گذشته از فعل ساده و بدون am/is/are استفاده می‌شود | I am used to wake up early | I used to wake up early |
 
+### مثال هایه پایانی
+- ایا ورزشی انجام میدی؟ بله من بسکتبال کار میکنم
+- do you play any sports? Yes, I play basketball.
+- ایا ماشین داری؟نه، یدونه داشتم ولی فروختمش.
+- Do you have a car? No, I used to have one, but I sold it 
+- کوین مستخدم هتل بوده ،ولی الان مدیره هتله.
+- Kevin used to be a waiter. Now he's the manager of a hotel.
+- ایا با ماشین میری به سرکار؟بعضی اوقات،اما بیشتر روزها من با قطار میرم سرکار
+- Do you go to work by car? sometimes, but most days I go by train.
+- وقتی بچه بودم،من اصلا گوشت نمیخوردم،اما من میخورم الان
+- When I was child, I didn't used to eat meat, but I eat it now. 
+- هانا به تلویزیون دیدن علاقه دارد،او هر شب تلویزیون میبینه.
+- Hana loves to watch TV, she watches TV every night
+- ما قبلا نزدیک فرودگاه زندگی میکردم،اما ما نقل مکان کردیم به پایین شهر چند سال پیش
+- We used to live near airport, but we moved to downtown a few years ago.
+- معمولا من شروع میکنم به کار ساعت 7،پس من زود بیدار میشم
+- Usually I start work at 7:00, so I get up very early.
+- کجا کار میکردی قبل اینکه بیای به این کمپانی ؟
+- where did you used to work befor you came to this company
