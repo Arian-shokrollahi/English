@@ -462,3 +462,22 @@ AGO    → چند وقت پیش
 
 > **for 3 years** → به مدت ۳ سال  
 > **since 2023** → از سال ۲۰۲۳
+### خلاصه خیلی مهم
+
+|کلمه|معنی|زمان رایج|
+|---|---|---|
+|**ago**|پیش|**Past Simple**|
+|**for**|به مدتِ|**Present Perfect** / زمان‌های دیگر|
+|**since**|از زمانی که|**Present Perfect** / زمان‌های دیگر|
+
+پس برای یادگیری اولیه این قانون را یادت باشد:
+
+> **ago → Past Simple**  
+> **for + مدت زمان → معمولاً Present Perfect**  
+> **since + نقطه شروع → معمولاً Present Perfect**
+
+مثلاً:
+
+**I went there 2 years ago.** ✅  
+**I have lived here for 2 years.** ✅  
+**I have lived here since 2024.** ✅
